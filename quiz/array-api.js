@@ -79,5 +79,5 @@
   // Bonus! do Q10 sorted in ascending order
   // result should be: '45, 66, 80, 88, 90'
   {
-      console.log(students.map(student => student.score).sort((a,b) => a - b).join());
-  }
+      console.log(students.map(student => student.score).sort((a,b) => a - b).join()); 
+  }  
