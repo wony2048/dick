@@ -1,0 +1,22 @@
+{
+    "name": "nodedev",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wony2048/nodeDev.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/wony2048/nodeDev/issues"
+    },
+    "homepage": "https://github.com/wony2048/nodeDev#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
